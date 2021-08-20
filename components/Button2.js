@@ -16,7 +16,7 @@ export default function But() {
         </span>
         <span className="text2" style={{marginLeft:"9px", position:"absolute"
     , fontSize:"12px", marginTop:"5px", fontWeight:"bold" }}>
-            V
+            
         </span>
      </Button>
      <img src="/images/logoscrdt.jpg" alt="girl coding" className="img-responsive"
